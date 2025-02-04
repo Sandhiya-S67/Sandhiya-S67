@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandhiya Suresh</h1>
 <h3 align="center">I am a curious learner and coder, bridging technology with real-world solutions through innovation and logic.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhiya-s67&label=Profile%20views&color=0e75b6&style=flat" alt="sandhiya-s67" /> </p>
 
