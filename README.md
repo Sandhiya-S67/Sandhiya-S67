@@ -13,9 +13,7 @@
 <h3 align="left">My Tech Footprint:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandhiya-s67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandhiya-s67" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sandhiya_s22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sandhiya_s22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sandhiyas_3065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandhiyas_3065" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sandy67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sandy67" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user4848xj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4848xj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sandhiy2lac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandhiy2lac" height="30" width="40" /></a>
 </p>
