@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sandhiyas.3065@gmail.com**
 
-<h3 align="left">My Tech Footprint:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandhiya-s67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandhiya-s67" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sandhiyas_3065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandhiyas_3065" height="30" width="40" /></a>
